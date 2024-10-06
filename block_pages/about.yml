@@ -48,18 +48,25 @@ blocks:
         bio: |
           Representante de la UACH como Líder de CUUhetería, estudiante de ingeniería aeroespacial y entusiasta de la ciencia.
         image: /files/people/nilse.png
+      - name: Elena Murillo
+        id: Elena
+        role: Lider RAINTCH
+        bio: |
+          Project Manager de CEITECH, miembro de aviónica (encargado de firmware y comunicación) y desarrollador web.
+        image: /files/people/avatar.webp
       - name: Angel Berdeja 
         id: berdeja
         role: BerdeSex
         bio: |
           Project Manager de CEITECH, miembro de aviónica (encargado de firmware y comunicación) y desarrollador web.
         image: /files/people/berdeja.png
-      - name: Ernesto Alejandro Maldonado 
-        id: Elena
-        role: Vicepresidente
+      - name: Ximena Rubi
+        id: ximena
+        role: Coordinadora de redes sociales
         bio: |
           Project Manager de CEITECH, miembro de aviónica (encargado de firmware y comunicación) y desarrollador web.
-        image: /files/people/ernesto.jpg
+        image: /files/people/avatar.webp
+      
   
   - type: separator
     width: is-default

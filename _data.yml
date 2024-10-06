@@ -12,12 +12,6 @@ cta:
   text: Acerca de Nosotros
   url: /about/
 footer:
-  logo: /files/logos/logo.png
-  copyright: "© 2024<br>\r\nCreated with [Lume](https://lume.land) & TOP Theme<br>\r\n[humans.txt](/humans.txt)\r\n"
-  menu:
-    - text: Legal terms
-      href: /legal-terms/
-    - text: Privacy
-      href: /privacy/
-    - text: Code of conduct
-      href: /code-of-conduct/
+  logo: /files/logos/ceitech_logo.png
+  copyright: "© 2024 Neto y Fabio<br>\r\nCreated with [Lume](https://lume.land) & TOP Theme<br>\r\n[humans.txt](/humans.txt)\r\n"
+  
