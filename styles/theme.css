@@ -1,0 +1,12 @@
+:root {
+  /* Colors */
+  --color-primary: rgb(95, 81, 203);
+  --color-secondary: rgb(247, 228, 53);
+  --color-dark: black;
+  --color-light: Linen;
+
+  /* Fonts */
+  --font-family-display: system-ui, sans-serif;
+  --font-family-ui: system-ui, sans-serif;
+  --font-weight-bold: 600;
+}

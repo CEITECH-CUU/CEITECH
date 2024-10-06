@@ -1,0 +1,60 @@
+url: /about/
+menu:
+  - text: Home
+    url: /
+    highlight: true
+blocks:
+  - type: header
+    title: Misión
+    description: |
+      Fomentar los lazos y la cooperación entre las comunidades estudiantiles y profesionales en el ámbito de la ciencia y la ingeniería aeroespacial en estado de Chihuahua.
+      Ofrecer cursos y talleres especializados para promover el interés en las ciencias y tecnologías en Chihuahua, así como desarrollar cohetes experimentales para participación en concursos.
+  - type: header
+    title: Visión
+    description: |
+      Ser el organismo líder en Cohetería experimental y demás proyectos aeroespaciales de México en los próximos 10 años. Así fomentar en generaciones próximas el interés por la ciencia y tecnología del ámbito aeroespacial.
+  
+  - type: tickets
+    id: tickets
+    features:
+      - id: welcome_pack
+        text: Welcome Pack
+      - id: streaming
+        text: Streaming access
+      - id: tshirt
+        text: Tshirt
+
+
+
+    tickets:
+      - name: Type 1
+        pricing: 20€ + IVA
+        img: /files/tickets/ticket.png
+        buy:
+          text: Buy now
+          url: '#'
+          disabled: false
+        features:
+          - welcome_pack
+      - name: Type 2
+        pricing: 30€ + IVA
+        img: /files/tickets/ticket.png
+        buy:
+          text: Buy now
+          url: '#'
+          disabled: false
+        features:
+          - welcome_pack
+          - streaming
+      - name: Type 3
+        pricing: 40€ + IVA
+        img: /files/tickets/ticket.png
+        buy:
+          text: Coming soon
+          url: '#'
+          disabled: true
+        features:
+          - welcome_pack
+          - streaming
+          - tshirt
+title: Tickets
