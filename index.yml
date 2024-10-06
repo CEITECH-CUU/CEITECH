@@ -13,16 +13,12 @@ menu:
     url: '#contact'
     highlight: false
 blocks:
-  - type: logos
-    size: small
-    items:
-      - alt: Logo
-        img: /files/logos/ceitech_logo.png
-
+ 
   - type: hero
-    title: Your TOP event
-    intro: This is an intro
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sollicitudin elementum maximus. Morbi venenatis eros sit amet ultrices venenatis. Etiam id lectus lorem. Nulla porta, purus eget molestie pulvinar, nulla purus vehicula sem, eget ultrices arcu felis sit amet lacus. Duis posuere tincidunt bibendum. Praesent sed tortor a lectus efficitur fermentum. Morbi venenatis ex in arcu pretium, vitae molestie arcu hendrerit.
+    title: CEITECH
+    intro: Misión
+    text: Somos un organismo dedicado a fomentar los lazos y la cooperación entre las comunidades estudiantiles y profesionales en el ámbito de la ciencia y la ingeniería aeroespacial en estado de Chihuahua.
+          Ofrecer cursos y talleres especializados para promover el interés en las ciencias y tecnologías en Chihuahua, así como desarrollar cohetes experimentales para participación en concursos。
   - type: text
     title: Awesome TOP event
     theme: is-light width-box box-border
@@ -81,80 +77,32 @@ blocks:
             speakers: []
   - type: separator
     width: is-default
-  - type: speakers
-    title: Speakers
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut, lobortis ipsum."
-    speakers:
-      - name: Person 1
-        id: name-1
-        company: Company name
-        role: Role
-        bio: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut, lobortis ipsum. Nullam varius turpis vel felis laoreet, ut ornare nisi placerat. Suspendisse volutpat suscipit lorem vitae fermentum.
-        image: /files/people/avatar.webp
-      - name: Person 2
-        id: name-2
-        company: Company name
-        role: Role
-        bio: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut, lobortis ipsum. Nullam varius turpis vel felis laoreet, ut ornare nisi placerat. Suspendisse volutpat suscipit lorem vitae fermentum.
-        image: /files/people/avatar.webp
+
   - type: logos
-    title: Partners
+    title:  Entidades Colaboradoras
     id: partners
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut, lobortis ipsum."
     size: medium
     items:
       - alt: Logo
-        img: /files/logos/logo.png
+        img: /files/logos/uach.svg
         url: 'https://github.com/tarugoconf/TOP'
-        description: 
+        description: UACH
       - alt: Logo
-        img: /files/logos/logo.png
+        img: /files/logos/itch.png
         url: 'https://github.com/tarugoconf/TOP'
-        description: 
+        description: ITCH
       - alt: Logo
-        img: /files/logos/logo.png
+        img: /files/logos/itesm.svg
         url: 'https://github.com/tarugoconf/TOP'
-        description: 
-  - type: separator
-    width: is-default
-  - type: logos
-    size: small
-    items:
+        description: ITESM
       - alt: Logo
-        img: /files/logos/logo.png
-        url: 'https://github.com/tarugoconf/TOP'
-        description: 
-      - alt: Logo
-        img: /files/logos/logo.png
-        url: 'https://github.com/tarugoconf/TOP'
-        description: 
-      - alt: Logo
-        img: /files/logos/logo.png
-        url: 'https://github.com/tarugoconf/TOP'
-        description: 
-  - type: separator
-    width: is-default
-  - type: people
-    title: Patreons
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut, lobortis ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut, lobortis ipsum."
-    items:
-      - name: Person
-        img: /files/people/avatar.webp
-      - name: Person
-        img: /files/people/avatar.webp
-      - name: Person
-        img: /files/people/avatar.webp
-      - name: Person
-        img: /files/people/avatar.webp
-      - name: Person
-        img: /files/people/avatar.webp
-      - name: Person
-        img: /files/people/avatar.webp
+        img: /files/logos/cimav.png
+        url: 'https://cimav.edu.mx/acerca/'
+        description: CIMAV
 
   - type: separator
-    width: is-full
+    width: is-default
   - type: faq
     title: FAQ
     theme: is-light width-box box-fill
