@@ -18,6 +18,7 @@
 
 /* Blocks */
 @import "blocks/calendar/calendar.css" layer(ui);
+@import "blocks/rainbow/rainbow.css" layer(ui);
 @import "blocks/activities/activities.css" layer(ui);
 @import "blocks/contact/contact.css" layer(ui);
 @import "blocks/faq/faq.css" layer(ui);
