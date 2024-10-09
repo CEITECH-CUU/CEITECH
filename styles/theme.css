@@ -1,7 +1,7 @@
 :root {
   /* Colors */
-  --color-primary: rgb(95, 81, 203);
-  --color-secondary: rgb(247, 228, 53);
+  --color-primary: CornflowerBlue;
+  --color-secondary: DarkSalmon;
   --color-dark: black;
   --color-light: Linen;
 
