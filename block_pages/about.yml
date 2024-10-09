@@ -6,14 +6,21 @@ menu:
 blocks:
   - type: header
     title: Misión
-    description: |
-      Fomentar los lazos y la cooperación entre las comunidades estudiantiles y profesionales en el ámbito de la ciencia y la ingeniería aeroespacial en estado de Chihuahua.
-      Ofrecer cursos y talleres especializados para promover el interés en las ciencias y tecnologías en Chihuahua, así como desarrollar cohetes experimentales para participación en concursos.
+    description: >
+      Fomentar los lazos y la cooperación entre las comunidades estudiantiles y
+      profesionales en el ámbito de la ciencia y la ingeniería aeroespacial en
+      estado de Chihuahua.
+
+      Ofrecer cursos y talleres especializados para promover el interés en las
+      ciencias y tecnologías en Chihuahua, así como desarrollar cohetes
+      experimentales para participación en concursos.
   - type: header
     title: Visión
-    description: |
-      Ser el organismo líder en Cohetería experimental y demás proyectos aeroespaciales de México en los próximos 10 años. Así fomentar en generaciones próximas el interés por la ciencia y tecnología del ámbito aeroespacial.
-  
+    description: >
+      Ser el organismo líder en Cohetería experimental y demás proyectos
+      aeroespaciales de México en los próximos 10 años. Así fomentar en
+      generaciones próximas el interés por la ciencia y tecnología del ámbito
+      aeroespacial.
   - type: tickets
     id: tickets
     features:
@@ -23,83 +30,65 @@ blocks:
         text: Streaming access
       - id: tshirt
         text: Tshirt
+    tickets: []
   - type: separator
     width: is-default
   - type: speakers
     title: Mesa Directiva
     description: "\b"
-    #description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut, lobortis ipsum."
     speakers:
       - name: Emilio Ochoa
         id: emilio
         role: Presidente
-        bio: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut, lobortis ipsum. Nullam varius turpis vel felis laoreet, ut ornare nisi placerat. Suspendisse volutpat suscipit lorem vitae fermentum.
+        bio: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
+          venenatis, laoreet libero ut, lobortis ipsum. Nullam varius turpis vel
+          felis laoreet, ut ornare nisi placerat. Suspendisse volutpat suscipit
+          lorem vitae fermentum.
         image: /files/people/emilio.png
-      - name: Ernesto Alejandro Maldonado 
+        links: []
+      - name: Ernesto Alejandro Maldonado
         id: ernesto
         role: Vicepresidente
-        bio: |
-          Project Manager de CEITECH, miembro de aviónica (encargado de firmware y comunicación) y desarrollador web.
+        bio: >
+          Project Manager de CEITECH, miembro de aviónica (encargado de firmware
+          y comunicación) y desarrollador web.
         image: /files/people/ernesto.jpg
+        links: []
       - name: Nilse Avila
         id: Nilse
         role: Lider de Aerodinamica y CUUheteria
-        bio: |
-          Representante de la UACH como Líder de CUUhetería, estudiante de ingeniería aeroespacial y entusiasta de la ciencia.
+        bio: >
+          Representante de la UACH como Líder de CUUhetería, estudiante de
+          ingeniería aeroespacial y entusiasta de la ciencia.
         image: /files/people/nilse.png
+        links: []
       - name: Elena Murillo
         id: Elena
         role: Lider RAINTCH
-        bio: |
-          Project Manager de CEITECH, miembro de aviónica (encargado de firmware y comunicación) y desarrollador web.
+        bio: >
+          Project Manager de CEITECH, miembro de aviónica (encargado de firmware
+          y comunicación) y desarrollador web.
         image: /files/people/avatar.webp
-      - name: Angel Berdeja 
+        links: []
+      - name: Angel Berdeja
         id: berdeja
         role: BerdeSex
-        bio: |
-          Project Manager de CEITECH, miembro de aviónica (encargado de firmware y comunicación) y desarrollador web.
+        bio: >
+          Project Manager de CEITECH, miembro de aviónica (encargado de firmware
+          y comunicación) y desarrollador web.
         image: /files/people/berdeja.png
+        links: []
       - name: Ximena Rubi
         id: ximena
         role: Coordinadora de redes sociales
-        bio: |
-          Project Manager de CEITECH, miembro de aviónica (encargado de firmware y comunicación) y desarrollador web.
+        bio: >
+          Project Manager de CEITECH, miembro de aviónica (encargado de firmware
+          y comunicación) y desarrollador web.
         image: /files/people/avatar.webp
-      
-  
+        links: []
   - type: separator
     width: is-default
-
-    tickets:
-      - name: Type 1
-        pricing: 20€ + IVA
-        img: /files/tickets/ticket.png
-        buy:
-          text: Buy now
-          url: '#'
-          disabled: false
-        features:
-          - welcome_pack
-      - name: Type 2
-        pricing: 30€ + IVA
-        img: /files/tickets/ticket.png
-        buy:
-          text: Buy now
-          url: '#'
-          disabled: false
-        features:
-          - welcome_pack
-          - streaming
-      - name: Type 3
-        pricing: 40€ + IVA
-        img: /files/tickets/ticket.png
-        buy:
-          text: Coming soon
-          url: '#'
-          disabled: true
-        features:
-          - welcome_pack
-          - streaming
-          - tshirt
 title: Tickets
+metas:
+  image: ''
