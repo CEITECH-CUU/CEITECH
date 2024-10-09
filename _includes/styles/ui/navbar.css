@@ -65,6 +65,7 @@ html {
     padding-left: 2em;
   }
 }
+
 .navbar-menu-toggle {
   display: none;
   margin: 0;
@@ -126,6 +127,12 @@ html {
     display: flex;
   }
 }
+
+.navbar-logo {
+  padding: 0.3em;
+  object-fit: contain;
+}
+
 @media (width < 600px) {
   .navbar {
     grid-template-columns: auto 1fr;
@@ -138,6 +145,7 @@ html {
     }
   }
 }
+
 @media (width < 450px) {
   .navbar-menu {
     > li a {
@@ -166,11 +174,4 @@ html {
   to {
     transform: translateX(8px);
   }
-}
-.navbar-logo {
-  grid-column: center / end;
-  justify-self: end;
-  padding: 0.3em;
-  align-self: start;
-  object-fit: contain;
 }
