@@ -1,6 +1,7 @@
 import lume from "lume/mod.ts";
 import date from "lume/plugins/date.ts";
 import metas from "lume/plugins/metas.ts";
+import unocss from "lume/plugins/unocss.ts";
 import { env } from "lume/core/utils/env.ts";
 import favicon from "lume/plugins/favicon.ts";
 import basePath from "lume/plugins/base_path.ts";
@@ -11,11 +12,6 @@ import icons from "https://deno.land/x/lume_icon_plugins@v0.2.1/phosphor.ts";
 
 const site = lume();
 
-// site.copy("/_includes/styles");
-// site.copy("/_includes/scripts");
-// site.copy("/_includes/blocks", "/styles/blocks");
-// site.copy("/files");
-
 let id = 0;
 
 site
@@ -23,6 +19,7 @@ site
   .copy("files")
   .copy("scripts")
   .use(lightningcss())
+  .use(unocss({ cssFile: "styles/unocss.css" }))
   .use(basePath())
   .use(metas())
   .data("counter", () => id++)
