@@ -19,9 +19,7 @@ blocks:
   - type: separator
     width: is-default
 
-  - type: rainbow
-    id: rainbow
-    title: NETOOO
+
 
   - type: logos
     title: Entidades Colaboradoras
