@@ -18,6 +18,11 @@ blocks:
       de la ciencia y la tecnología Aeroespacial.
   - type: separator
     width: is-default
+
+  - type: rainbow
+    id: rainbow
+    title: NETOOO
+
   - type: logos
     title: Entidades Colaboradoras
     id: partners
