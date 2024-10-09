@@ -1,8 +1,5 @@
 layout: layouts/block_page.vto
 menu:
-  - text: Ubicación
-    url: "#location"
-    highlight: false
   - text: Curso
     url: "/curso"
     highlight: false
