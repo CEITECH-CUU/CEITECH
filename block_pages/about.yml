@@ -23,8 +23,12 @@ blocks:
       aeroespacial.
   - type: separator
     width: is-default
-  - type: speakers
+  
+  - type: rainbow
+    id: rainbow
     title: Mesa Directiva
+
+  - type: speakers
     description: "\b"
     speakers:
       - name: Emilio Ochoa

@@ -19,14 +19,15 @@
   --axis-x: 1px;
   --axis-y: 1rem;
   --delay: 10;
-  --color-black: #000;
-  --color-white: #fff;
-  --color-orange: #d49c3d;
-  --color-red: #d14b3d;
-  --color-violet: #cf52eb;
-  --color-blue: #44a3f7;
-  --color-green: #5acb3c;
-  --color-yellow: #debf40;
+  --color-black: #1b1607;
+  --color-white: #b38600;
+  --color-orange: #a98005;
+  --color-red: #8e6c05;
+  --color-violet: #765a06;
+  --color-blue: #816206;
+  --color-green: #755904;
+  --color-yellow: #745805
+  ;
   --color-foreground: var(--color-white);
 }
 
@@ -34,12 +35,14 @@
   counter-reset: rainbow;
   list-style: none;
   padding: 0;
+  font-weight: bold;
+
 }
 
 .c-rainbow__layer {
   --text-color: var(--color-foreground);
   counter-increment: rainbow;
-  font-size: 3rem;
+  font-size: 4rem;
   color: var(--text-color);
   text-shadow: -1px -1px 0 var(--color-black), 1px -1px 0 var(--color-black), -1px 1px 0 var(--color-black),
     1px 1px 0 var(--color-black), 4px 4px 0 rgba(0, 0, 0, 0.2);
