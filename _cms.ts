@@ -1,7 +1,3 @@
-import lumeCMS from "lume/cms/mod.ts";
-
-const cms = lumeCMS();
-
-// Configuration here
+import cms from "top/_cms.ts";
 
 export default cms;
