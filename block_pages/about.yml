@@ -7,30 +7,17 @@ blocks:
   - type: header
     title: Misión
     description: >
-      Fomentar los lazos y la cooperación entre las comunidades estudiantiles y
-      profesionales en el ámbito de la ciencia y la ingeniería aeroespacial en
-      estado de Chihuahua.
+      Fomentar los lazos y la cooperación entre las comunidades estudiantiles y profesionales en el ámbito de la
+      ciencia y la ingeniería aeroespacial en estado de Chihuahua.
 
-      Ofrecer cursos y talleres especializados para promover el interés en las
-      ciencias y tecnologías en Chihuahua, así como desarrollar cohetes
-      experimentales para participación en concursos.
+      Ofrecer cursos y talleres especializados para promover el interés en las ciencias y tecnologías en Chihuahua,
+      así como desarrollar cohetes experimentales para participación en concursos.
   - type: header
     title: Visión
     description: >
-      Ser el organismo líder en Cohetería experimental y demás proyectos
-      aeroespaciales de México en los próximos 10 años. Así fomentar en
-      generaciones próximas el interés por la ciencia y tecnología del ámbito
+      Ser el organismo líder en Cohetería experimental y demás proyectos aeroespaciales de México en los próximos
+      10 años. Así fomentar en generaciones próximas el interés por la ciencia y tecnología del ámbito
       aeroespacial.
-  - type: tickets
-    id: tickets
-    features:
-      - id: welcome_pack
-        text: Welcome Pack
-      - id: streaming
-        text: Streaming access
-      - id: tshirt
-        text: Tshirt
-    tickets: []
   - type: separator
     width: is-default
   - type: speakers
@@ -41,54 +28,53 @@ blocks:
         id: emilio
         role: Presidente
         bio: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
-          venenatis, laoreet libero ut, lobortis ipsum. Nullam varius turpis vel
-          felis laoreet, ut ornare nisi placerat. Suspendisse volutpat suscipit
-          lorem vitae fermentum.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio venenatis, laoreet libero ut,
+          lobortis ipsum. Nullam varius turpis vel felis laoreet, ut ornare nisi placerat. Suspendisse volutpat
+          suscipit lorem vitae fermentum.
         image: /files/people/emilio.png
         links: []
       - name: Ernesto Alejandro Maldonado
         id: ernesto
         role: Vicepresidente
         bio: >
-          Project Manager de CEITECH, miembro de aviónica (encargado de firmware
-          y comunicación) y desarrollador web.
+          Project Manager de CEITECH, miembro de aviónica (encargado de firmware y comunicación) y desarrollador
+          web.
         image: /files/people/ernesto.jpg
         links: []
       - name: Nilse Avila
         id: Nilse
         role: Lider de Aerodinamica y CUUheteria
         bio: >
-          Representante de la UACH como Líder de CUUhetería, estudiante de
-          ingeniería aeroespacial y entusiasta de la ciencia.
+          Representante de la UACH como Líder de CUUhetería, estudiante de ingeniería aeroespacial y entusiasta de
+          la ciencia.
         image: /files/people/nilse.png
         links: []
       - name: Elena Murillo
         id: Elena
         role: Lider RAINTCH
         bio: >
-          Project Manager de CEITECH, miembro de aviónica (encargado de firmware
-          y comunicación) y desarrollador web.
+          Project Manager de CEITECH, miembro de aviónica (encargado de firmware y comunicación) y desarrollador
+          web.
         image: /files/people/avatar.webp
         links: []
       - name: Angel Berdeja
         id: berdeja
         role: BerdeSex
         bio: >
-          Project Manager de CEITECH, miembro de aviónica (encargado de firmware
-          y comunicación) y desarrollador web.
+          Project Manager de CEITECH, miembro de aviónica (encargado de firmware y comunicación) y desarrollador
+          web.
         image: /files/people/berdeja.png
         links: []
       - name: Ximena Rubi
         id: ximena
         role: Coordinadora de redes sociales
         bio: >
-          Project Manager de CEITECH, miembro de aviónica (encargado de firmware
-          y comunicación) y desarrollador web.
+          Project Manager de CEITECH, miembro de aviónica (encargado de firmware y comunicación) y desarrollador
+          web.
         image: /files/people/avatar.webp
         links: []
   - type: separator
     width: is-default
 title: Tickets
 metas:
-  image: ''
+  image: ""

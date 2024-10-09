@@ -12,10 +12,14 @@
   --font-scale: 1.2;
   --font-weight-bold: 600;
 
-  @media (width < 1200px) { --font-scale: 1.15; }
-  @media (width < 800px) { --font-scale: 1.1; }
+  @media (width < 1200px) {
+    --font-scale: 1.15;
+  }
+  @media (width < 800px) {
+    --font-scale: 1.1;
+  }
 
-  --font-0-size: .875rem;
+  --font-0-size: 0.875rem;
   --font-0-spacing: 0;
 
   --font-1-size: 1rem;
@@ -47,6 +51,36 @@
 
   --font-10-size: calc(var(--font-9-size) * var(--font-scale));
   --font-10-spacing: -0.035em;
+
+  --font-11-size: calc(var(--font-10-size) * var(--font-scale));
+  --font-11-spacing: -0.035em;
+
+  --font-12-size: calc(var(--font-11-size) * var(--font-scale));
+  --font-12-spacing: -0.035em;
+
+  --font-13-size: calc(var(--font-12-size) * var(--font-scale));
+  --font-13-spacing: -0.035em;
+
+  --font-14-size: calc(var(--font-13-size) * var(--font-scale));
+  --font-14-spacing: -0.035em;
+
+  --font-15-size: calc(var(--font-14-size) * var(--font-scale));
+  --font-15-spacing: -0.035em;
+
+  --font-16-size: calc(var(--font-15-size) * var(--font-scale));
+  --font-16-spacing: -0.035em;
+
+  --font-17-size: calc(var(--font-16-size) * var(--font-scale));
+  --font-17-spacing: -0.035em;
+
+  --font-18-size: calc(var(--font-17-size) * var(--font-scale));
+  --font-18-spacing: -0.035em;
+
+  --font-19-size: calc(var(--font-18-size) * var(--font-scale));
+  --font-19-spacing: -0.035em;
+
+  --font-20-size: calc(var(--font-19-size) * var(--font-scale));
+  --font-20-spacing: -0.035em;
 
   /* 3 types of line height */
   --line-height-text: 1.6;

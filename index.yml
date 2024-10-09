@@ -1,157 +1,24 @@
 layout: layouts/block_page.vto
 menu:
   - text: Ubicación
-    url: '#location'
+    url: "#location"
     highlight: false
-  - text: Calendario
-    url: '#calendar'
+  - text: Curso
+    url: "/curso"
     highlight: false
   - text: Partners
-    url: '#partners'
+    url: "#partners"
     highlight: false
   - text: Contacto
-    url: '#contact'
+    url: "#contact"
     highlight: false
 blocks:
   - type: hero
     title: CEITECH
     text: >-
-      El Clúster Estudiantil de Investigación en Tecnologías Espaciales de
-      Chihuahua es un grupo de equipos estudiantiles y profesionales del Estado
-      con el propósito de fomentar los lazos y la cooperación en el ámbito de la
-      ciencia y la tecnología Aeroespacial.
-  - type: text
-    title: CURSO "ARMA TU PROPIO COHETE"
-    theme: is-light width-box box-border
-    columns: false
-    text: >
-      Curso de Creación de Cohetes que se llevara acabo los días:
-
-
-      -19 de Octubre (Curso de Introducción en ITCH)
-
-
-      -25 de Octubre (Manufactura e integración)
-
-
-      -26 de Octubre (Evento de Lanzamiento y premiaciones)
-
-
-      **[LINK DE
-      REGISTRO](https://docs.google.com/forms/d/e/1FAIpQLSeK-O_SMQQ0WSSyylMWFkbIVFK2D_nb-oagEocaxHUgMVlsPg/viewform)
-
-      **
-  - type: location
-    title: Ubicación
-    id: location
-    theme: is-light width-box box-fill
-    embed: >
-      <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55995.47243731617!2d-106.15699588713046!3d28.69811021067514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea436c6c9dcd33%3A0x3fb4315d520531b9!2sAparcamiento%2C%20Av.%20Tecnol%C3%B3gico%2084%2C%20Col%20de%20las%20Madres%2C%2031200%20Chihuahua%2C%20Chih.!5e0!3m2!1ses-419!2smx!4v1728221696179!5m2!1ses-419!2smx"
-      width="600" height="450" style="border:0;" allowfullscreen=""
-      loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    directions:
-      - title: Tecnológico de Chihuahua
-        description: 'Av. Tecnológico 2909. Col. 10 de Mayo CP 31200, Chihuahua, Chihuahua'
-        icon: map-pin
-  - type: calendar
-    title: Calendar
-    id: calendar
-    days:
-      - title: '19 de Octubre  | Teoría  '
-        events:
-          - time: '14:00h'
-            title: Introducción a la Cohetería
-            id: Intro
-            description: |-
-              Tipos de Aeronaves <br>
-              ¿Qué es un Cohete?<br>
-              ¿Qué es la cohetería experimental?<br>
-              Fundamentos básicos del funcionamiento de un Cohete<br>
-              Arquitectura de sistemas<br>
-              -> Propulsión<br>
-              -> Recuperación <br>
-              -> Aviónica <br>
-              -> Estructura interna y externa <br>
-              -> Superficies y/o sistemas de Control
-              Secuencia de vuelo de un cohete aficionado.
-            speakers: []
-          - time: '14:30h'
-            title: Propulsión
-            id: propulsion
-            description: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at
-              odio venenatis, laoreet libero ut, lobortis ipsum.
-            speakers: []
-          - time: '14:50h'
-            title: Sistemas de recuperación
-            description: |
-              Reglamentación <br>
-              ¿Qué es el sistema de recuperación? <br>
-              Descripción de funcionamiento. (Por explosión o por aviónica) <br>
-              Métodos de expulsión<br>
-              Descripción paracaídas y diseño <br>
-              Software
-            speakers: []
-          - time: '15:20'
-            title: Aviónica
-            speakers:
-              - ernesto
-          - time: '15:40'
-            title: Aerodinámica
-            description: |
-              Fuerzas Aerodinámicas <br>
-              Efecto de las Fuerzas en el cohete <br>
-              Diseño de elementos aerodinámicos
-            speakers: []
-          - time: '16:00'
-            title: Criterios de Diseño
-            description: |-
-              Centro de gravedad <br>
-              Centro de presión <br>
-              Ejes de un cohete y movimientos de un cohete <br>
-              Estabilidad <br>
-              Estática <br>
-              Dinámica <br>
-              Positiva, Neutra, Negativa <br>
-              Weathervane Effect <br>
-              Control <br>
-              Diseño de Aletas y Nariz
-               
-            speakers: []
-          - time: '16:30'
-            title: Receso
-            speakers: []
-          - time: '17:00 - 19:00'
-            title: Open Rocket
-            speakers: []
-      - title: 25 Octubre | Armado de los cohetes
-        events:
-          - time: '15:00h'
-            description: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at
-              odio venenatis, laoreet libero ut, lobortis ipsum.
-            speakers: []
-          - time: '16:00h'
-            title: Second event
-            description: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at
-              odio venenatis, laoreet libero ut, lobortis ipsum.
-            speakers: []
-      - title: 26 de Octubre | Lanzamiento de cohetes
-        events:
-          - time: '15:00h'
-            title: First event
-            description: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at
-              odio venenatis, laoreet libero ut, lobortis ipsum.
-            speakers: []
-          - time: '16:00h'
-            title: Second event
-            description: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at
-              odio venenatis, laoreet libero ut, lobortis ipsum.
-            speakers: []
+      El Clúster Estudiantil de Investigación en Tecnologías Espaciales de Chihuahua es un grupo de equipos
+      estudiantiles y profesionales del Estado con el propósito de fomentar los lazos y la cooperación en el ámbito
+      de la ciencia y la tecnología Aeroespacial.
   - type: separator
     width: is-default
   - type: logos
@@ -161,19 +28,19 @@ blocks:
     items:
       - alt: Logo
         img: /files/logos/uach.svg
-        url: 'https://uach.mx/'
+        url: "https://uach.mx/"
         description: UACH
       - alt: Logo
         img: /files/logos/itch.png
-        url: 'https://itchihuahua.mx/'
+        url: "https://itchihuahua.mx/"
         description: ITCH
       - alt: Logo
         img: /files/logos/itesm.svg
-        url: 'https://tec.mx/en'
+        url: "https://tec.mx/en"
         description: ITESM
       - alt: Logo
         img: /files/logos/cimav.png
-        url: 'https://cimav.edu.mx/acerca/'
+        url: "https://cimav.edu.mx/acerca/"
         description: CIMAV
   - type: separator
     width: is-default
@@ -185,8 +52,8 @@ blocks:
       - title: Nombre
         info: CEITECH
         links:
-          - url: 'https://www.instagram.com/ceitech_/'
+          - url: "https://www.instagram.com/ceitech_/"
             icon: instagram-logo
             text: CEITECH_
 metas:
-  image: ''
+  image: ""

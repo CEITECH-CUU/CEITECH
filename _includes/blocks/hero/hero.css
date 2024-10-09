@@ -6,13 +6,19 @@
   text-align: center;
 }
 .block-hero-header {
-  font-size: var(--font-5-size);
+  font-size: var(--font-7-size);
   letter-spacing: var(--font-5-spacing);
 
   h1 {
-    font-size: var(--font-7-size);
-    letter-spacing: var(--font-7-spacing);
+    font-size: var(--font-11-size);
+    letter-spacing: var(--font-11-spacing);
     margin: 0;
+
+    color: transparent;
+    background: url("https://phandroid.s3.amazonaws.com/wp-content/uploads/2014/05/rainbow-nebula.jpg") repeat;
+    background-position: 40% 50%;
+    -webkit-background-clip: text;
+    background-clip: text;
   }
 }
 .block-hero-text {
