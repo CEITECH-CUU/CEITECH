@@ -44,73 +44,102 @@ blocks:
     days:
       - title: '19 de Octubre  | Teoría  '
         events:
-          - time: '14:00h'
+          - time: '10:00'
             title: Introducción a la Cohetería
             id: Intro
-            description: |-
-              Tipos de Aeronaves <br>
-              ¿Qué es un Cohete?<br>
-              ¿Qué es la cohetería experimental?<br>
-              Fundamentos básicos del funcionamiento de un Cohete<br>
-              Arquitectura de sistemas<br>
-              -> Propulsión<br>
-              -> Recuperación <br>
-              -> Aviónica <br>
-              -> Estructura interna y externa <br>
-              -> Superficies y/o sistemas de Control
-              Secuencia de vuelo de un cohete aficionado.
+            description: |
+              <ul>
+              <li>Tipos de Aeronaves</li>
+              <li>¿Qué es un Cohete?</li>
+              <li>¿Qué es la cohetería experimental?</li>
+              <li>Fundamentos básicos del funcionamiento de un Cohete</li>
+              <li>Arquitectura de sistemas
+              <ol>
+              <li>Propulsión</li>
+              <li>Recuperación</li>
+              <li>Aviónica</li>
+              <li>Estructura interna y externa</li>
+              <li>Superficies y/o sistemas de Control
+              Secuencia de vuelo de un cohete aficionado.</li>
+              </ol> 
+              </ul>
             speakers: []
-          - time: '14:30h'
+          - time: '10:30'
             title: Propulsión
             id: propulsion
-            description: >-
-       
+            description: |
+              <ul>
+              <li>Tipos de flujo y velocidad del sonido.</li>
+              <li>¿Qué es la propulsión?</li>
+              <li>¿Qué es un motor cohete?</li>
+              <li>Leyes físicas de un cohete</li>
+              <li>Empuje y ecuación de empuje</li>
+              <li>mpulso total, Empuje promedio e Impulso Específico.</li>
+              <li>Tipos de motores cohete</li>
+              <li>Partes del motor Sólido</li>
+              <ol>
+              <li>Grano y configuración de grano</li>
+              <li>Cámara de combustión</li>
+              <li>Tobera</li>
+              </ol> 
+              <li>Motores cohete comerciales y experimentales</li>
+              <ol>
+              <li>Arquitectura</li>
+              <li>Nomenclatura</li>
+              <li>Clasificación</li>
+              </ol> 
+              </ul>
             speakers: []
-          - time: '14:50h'
+          - time: '10:50'
             title: Sistemas de recuperación
             description: |
-              Reglamentación <br>
-              ¿Qué es el sistema de recuperación? <br>
-              Descripción de funcionamiento. (Por explosión o por aviónica) <br>
-              Métodos de expulsión<br>
-              Descripción paracaídas y diseño <br>
-              Software
+              <li>Reglamentación</li>
+              <li>Descripción de funcionamiento. (Por explosión o por aviónica)</li>
+              <li>Métodos de expulsión</li>
+              <li>Descripción paracaídas y diseño </li>
+              <li>Software</li>
             speakers: []
-          - time: '15:20'
+          - time: '11:20'
             title: Aviónica
+            description:
+             <li>¿Qué es?</li>
+             <li>Ejemplos reales</li>
+             <li>Partes de un sistema de aviónica </li>
+             <li>Arquitectura de una computadora de vuelo</li>
+
             speakers:
               - ernesto
-          - time: '15:40'
+          - time: '11:40'
             title: Aerodinámica
             description: |
-              Fuerzas Aerodinámicas <br>
-              Efecto de las Fuerzas en el cohete <br>
-              Diseño de elementos aerodinámicos
+              <li>Fuerzas Aerodinámicas</li>
+              <li>Efecto de las Fuerzas en el cohete</li>
+              <li>Diseño de elementos aerodinámicos</li>
             speakers: []
-          - time: '16:00'
+          - time: '12:00'
             title: Criterios de Diseño
             description: |-
-              Centro de gravedad <br>
-              Centro de presión <br>
-              Ejes de un cohete y movimientos de un cohete <br>
-              Estabilidad <br>
-              Estática <br>
-              Dinámica <br>
-              Positiva, Neutra, Negativa <br>
-              Weathervane Effect <br>
-              Control <br>
-              Diseño de Aletas y Nariz
+              <li>Centro de gravedad</li>
+              <li>Centro de presión</li>
+              <li>Ejes de un cohete y movimientos de un cohete</li>
+              <li>Estabilidad</li>
+              <li>Estática</li>
+              <li>Dinámica</li>
+              <li>Positiva, Neutra, Negativa <br>
+              <li>Weathervane Effect <br>
+              <li>Control</li>
+              <li>Diseño de Aletas y Nariz</li>
             speakers: []
-          - time: '16:30'
+          - time: '12:30'
             title: Receso
             speakers: []
-          - time: '17:00 - 19:00'
+          - time: '13:00 - 15:00'
             title: Open Rocket
             speakers: []
       - title: 25 Octubre | Armado de los cohetes
-      
+        events: []
       - title: 26 de Octubre | Lanzamiento de cohetes
-
+        events: []
   - type: separator
     width: is-default
   - type: contact

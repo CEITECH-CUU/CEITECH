@@ -67,7 +67,7 @@ blocks:
         links: []
       - name: Angel Berdeja
         id: berdeja
-        role: BerdeSex
+        role: Aviónica
         bio: Encargado de electronica y sistemas embebidos.
         image: /files/people/berdeja.png
         links: []
@@ -75,21 +75,22 @@ blocks:
         id: ximena
         role: Coordinadora de Relaciones Publicas
         bio: |
-          Encargada de promover el cluster,
-        image: /files/people/avatar.webp
+          Lo que hago en relaciones públicas es conseguir patrocinadores, llevar las redes, y dar promoción a las actividades :)
+        image: /files/people/ximena.jpg
         links: []
       - name: Angela Villaseñor
         role: Coordinadora Aero-estructuras
-        image: /files/people/avatar.webp
-        links: []
-      - name: Sergio Rodriguez
-        role: Coordinador carga útil
         image: /files/people/avatar.webp
         links: []
       - name: Paulina Ruiz
         role: Coordinadora de Manufactura
         image: /files/people/avatar.webp
         links: []
+      - name: Sergio Rodriguez
+        role: Coordinador carga útil
+        image: /files/people/avatar.webp
+        links: []
+ 
   - type: separator
     width: is-default
 title: Tickets
