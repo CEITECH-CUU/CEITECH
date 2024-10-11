@@ -16,11 +16,15 @@ blocks:
       El Clúster Estudiantil de Investigación en Tecnologías Espaciales de Chihuahua es un grupo de equipos
       estudiantiles y profesionales del Estado con el propósito de fomentar los lazos y la cooperación en el ámbito
       de la ciencia y la tecnología Aeroespacial.
+  - type: imgc
+    speakers:
+      - name: 
+        image: /files/people/ceitech_team.png
+        company: ENMICE 2024
+        bio: >
+         El ENMICE 2024 se llevo acabo en el estado de Chihuahua. CEITECH concurso en lanzamiento con Carga Útil (LCU) de 3000 metros de apogeo y en Nano satélite (Cansat).
   - type: separator
     width: is-default
-
-
-
   - type: logos
     title: Entidades Colaboradoras
     id: partners

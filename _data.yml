@@ -3,8 +3,8 @@ metas:
   title: =title
   site: ceitech
   lang: es
-  twitter:
-  color: "#00ab7d"
+  twitter: 
+  color: '#00ab7d'
   generator: true
   image: /files/img-home.png
 state: pre-event
@@ -13,4 +13,5 @@ cta:
   url: /about/
 footer:
   logo: /files/logos/ceitech_logo.png
-  copyright: "© 2024 Neto y Fabio<br>\r\nCreated with [Lume](https://lume.land) & TOP Theme<br>"
+  copyright: "© 2024 Erneto & Fabio<br>\r\nCreated with [Lume](https://lume.land) & f Theme<br>"
+  

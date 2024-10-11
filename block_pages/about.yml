@@ -80,15 +80,15 @@ blocks:
         links: []
       - name: Angela Villaseñor
         role: Coordinadora Aero-estructuras
-        image: ''
+        image: /files/people/avatar.webp
         links: []
       - name: Sergio Rodriguez
         role: Coordinador carga útil
-        image: ''
+        image: /files/people/avatar.webp
         links: []
-      - name: Paulina
+      - name: Paulina Ruiz
         role: Coordinadora de Manufactura
-        image: ''
+        image: /files/people/avatar.webp
         links: []
   - type: separator
     width: is-default

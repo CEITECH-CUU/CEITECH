@@ -64,8 +64,7 @@ blocks:
             title: Propulsión
             id: propulsion
             description: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at
-              odio venenatis, laoreet libero ut, lobortis ipsum.
+       
             speakers: []
           - time: '14:50h'
             title: Sistemas de recuperación
@@ -109,32 +108,9 @@ blocks:
             title: Open Rocket
             speakers: []
       - title: 25 Octubre | Armado de los cohetes
-        events:
-          - time: '15:00h'
-            description: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at
-              odio venenatis, laoreet libero ut, lobortis ipsum.
-            speakers: []
-          - time: '16:00h'
-            title: Second event
-            description: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at
-              odio venenatis, laoreet libero ut, lobortis ipsum.
-            speakers: []
+      
       - title: 26 de Octubre | Lanzamiento de cohetes
-        events:
-          - time: '15:00h'
-            title: First event
-            description: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at
-              odio venenatis, laoreet libero ut, lobortis ipsum.
-            speakers: []
-          - time: '16:00h'
-            title: Second event
-            description: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at
-              odio venenatis, laoreet libero ut, lobortis ipsum.
-            speakers: []
+
   - type: separator
     width: is-default
   - type: contact

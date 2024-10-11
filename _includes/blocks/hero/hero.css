@@ -12,7 +12,7 @@
 
   h1 {
     font-size: var(--font-11-size);
-    letter-spacing: 0.1em;
+    letter-spacing: 0.05em;
     margin: 0;
     font-weight: 900;
 
@@ -21,7 +21,7 @@
     background-position: 40% 50%;
     -webkit-background-clip: text;
     background-clip: text;
-    -webkit-text-stroke: 0.2rem rgb(201, 171, 23);
+    -webkit-text-stroke: 0.1rem rgb(201, 171, 23);
   }
 
   padding-top: 6rem;
