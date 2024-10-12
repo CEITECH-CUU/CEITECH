@@ -11,6 +11,7 @@
   letter-spacing: var(--font-5-spacing);
 
   h1 {
+    
     font-size: var(--font-11-size);
     letter-spacing: 0.05em;
     margin: 0;
@@ -30,13 +31,17 @@
 @media (width < 1100px) {
   .block-hero-header {
     h1 {
-      -webkit-text-stroke: 0.01rem rgb(201, 171, 23);
-      .fixed span {
-        position: absolute;
-        left: 0;
-        -webkit-text-stroke: 0;
-        pointer-events: none;
-      }
+    -webkit-text-stroke: 0.01rem rgb(201, 171, 23);    
+    font-size: var(--font-11-size);
+    letter-spacing: 0.05em;
+    margin: 0;
+    font-weight: 900;
+
+    color: transparent;
+    background: url("https://phandroid.s3.amazonaws.com/wp-content/uploads/2014/05/rainbow-nebula.jpg") repeat;
+    background-position: 40% 50%;
+    -webkit-background-clip: text;
+    background-clip: text; 
       
     }
   }
