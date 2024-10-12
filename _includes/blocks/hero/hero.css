@@ -36,14 +36,10 @@
     letter-spacing: 0.05em;
     margin: 0;
     font-weight: 900;
-
-    color: transparent;
-    background: url("https://phandroid.s3.amazonaws.com/wp-content/uploads/2014/05/rainbow-nebula.jpg") repeat;
-    background-position: 40% 50%;
-    -webkit-background-clip: text;
-    background-clip: text; 
+    paint-order: stroke fill;
       
     }
+
   }
 }
 
