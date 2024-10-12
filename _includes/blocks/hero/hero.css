@@ -32,13 +32,12 @@
   .block-hero-header {
     h1 {
     -webkit-text-stroke: 0.00rem rgb(201, 171, 23);    
-    font-family: 'InterStatic';
+    font-family: 'Georgia, serif';
     font-style: normal;
     font-weight: 1000;
-   src: url(https://cdn.jsdelivr.net/gh/rsms/inter@master/docs/font-files/InterDisplay-Bold.woff2) format('woff2');
-    -webkit-text-stroke: 0.02rem rgb(201, 171, 23);    
+    -webkit-text-stroke: 0.01rem rgb(201, 171, 23);    
     /* -webkit-text-stroke-width:1px; */
-    font-stretch:75%;
+    font-stretch:85%;
     paint-order: stroke fill; 
     }
   }
