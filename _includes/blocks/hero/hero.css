@@ -38,7 +38,7 @@
     -webkit-text-stroke: 0.02rem rgb(201, 171, 23);    
     /* -webkit-text-stroke-width:1px; */
     font-stretch:75%;
-    paint-order: stroke fill;
+    paint-order: stroke fill; 
     }
   }
 }
