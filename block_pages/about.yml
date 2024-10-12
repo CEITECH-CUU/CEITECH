@@ -93,6 +93,6 @@ blocks:
  
   - type: separator
     width: is-default
-title: Tickets
+title: About
 metas:
   image: ''

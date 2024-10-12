@@ -30,7 +30,7 @@
 @media (width < 1100px) {
   .block-hero-header {
     h1 {
-      -webkit-text-stroke: 0rem rgb(201, 171, 23);
+      -webkit-text-stroke: 0.01rem rgb(201, 171, 23);
     }
   }
 }
