@@ -34,11 +34,13 @@
     -webkit-text-stroke: 0.00rem rgb(201, 171, 23);    
     font-family: 'Georgia, serif';
     font-style: normal;
-    font-weight: 1000;
-    -webkit-text-stroke: 0.01rem rgb(201, 171, 23);    
+    font-weight: 950;
+    -webkit-text-stroke: 0.02rem rgb(201, 171, 23);    
+    paint-order: stroke fill; 
     /* -webkit-text-stroke-width:1px; */
     font-stretch:85%;
-    paint-order: stroke fill; 
+    color: rgba(137, 43, 226, 0.473);
+
     }
   }
 }
