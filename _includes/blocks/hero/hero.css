@@ -31,6 +31,13 @@
   .block-hero-header {
     h1 {
       -webkit-text-stroke: 0.01rem rgb(201, 171, 23);
+      .fixed span {
+        position: absolute;
+        left: 0;
+        -webkit-text-stroke: 0;
+        pointer-events: none;
+      }
+      
     }
   }
 }
