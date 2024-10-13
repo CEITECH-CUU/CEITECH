@@ -35,10 +35,9 @@ blocks:
         id: emilio
         role: Presidente
         bio: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at odio
-          venenatis, laoreet libero ut, lobortis ipsum. Nullam varius turpis vel
-          felis laoreet, ut ornare nisi placerat. Suspendisse volutpat suscipit
-          lorem vitae fermentum.
+          Actual presidente de CEITECH, y líder del Área de Propulsión del equipo de CUUhetería (UACH).
+          Creo firmemente que el exito se alcanzá con el trabajo en equipo y la cooperación.
+          Mis videojuegos favoritos son Minecraft y OuterWilds. Me encanta el campo y la música.
         image: /files/people/emilio.png
         links: []
       - name: Ernesto Alejandro Maldonado
@@ -79,16 +78,23 @@ blocks:
         image: /files/people/ximena.jpg
         links: []
       - name: Angela Villaseñor
+        id: angela
         role: Coordinadora Aero-estructuras
-        image: /files/people/avatar.webp
+        image: /files/people/angela.jpg
+        bio:
+         Egresada de Ingeniería aeroespacial, me encargo de supervisar y asistir en el diseño y construcción de cohetes de alta y baja potencia, soy entusiasta de las ciencias espaciales y trabajo actualmente como ingeniera de diseño para Textron Aviation
         links: []
       - name: Paulina Ruiz
+        id: paulina
         role: Coordinadora de Manufactura
         image: /files/people/avatar.webp
         links: []
-      - name: Sergio Rodriguez
-        role: Coordinador carga útil
-        image: /files/people/avatar.webp
+      - name: Natalia Mandilla
+        id: nat
+        role: Coordinadora Recuperación
+        image: /files/people/natalia.jpg
+        bio:
+          Estudiante de Ing. Aeroespacial, coordinadora de sistemas de recuperación de CEITECH y líder del área de recuperación de Cuuheteria
         links: []
  
   - type: separator
