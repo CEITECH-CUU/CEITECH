@@ -130,10 +130,10 @@ blocks:
               <li>Control</li>
               <li>Diseño de Aletas y Nariz</li>
             speakers: []
-          - time: '12:30'
+          - time: '13:00'
             title: Receso
             speakers: []
-          - time: '13:00 - 15:00'
+          - time: '13:30 - 15:30'
             title: Open Rocket
             speakers: []
       - title: 25 Octubre | Armado de los cohetes

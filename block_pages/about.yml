@@ -60,9 +60,8 @@ blocks:
         id: Elena
         role: Lider RAINTCH
         bio: >
-          Project Manager de CEITECH, miembro de aviónica (encargado de firmware
-          y comunicación) y desarrollador web.
-        image: /files/people/avatar.webp
+          Estudiante de ingeniería Electromecánica, Fundadora y actual presidenta de RAINTCH
+        image: /files/people/elena.jpg
         links: []
       - name: Angel Berdeja
         id: berdeja
@@ -84,11 +83,11 @@ blocks:
         bio:
          Egresada de Ingeniería aeroespacial, me encargo de supervisar y asistir en el diseño y construcción de cohetes de alta y baja potencia, soy entusiasta de las ciencias espaciales y trabajo actualmente como ingeniera de diseño para Textron Aviation
         links: []
-      - name: Paulina Ruiz
-        id: paulina
-        role: Coordinadora de Manufactura
-        image: /files/people/avatar.webp
-        links: []
+      # - name: Paulina Ruiz
+      #   id: paulina
+      #   role: Coordinadora de Manufactura
+      #   image: /files/people/avatar.webp
+      #   links: []
       - name: Natalia Mandilla
         id: nat
         role: Coordinadora Recuperación
